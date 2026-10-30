@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 jaken-z
+Copyright (c) 2026 赛博包工头
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+=========================================================================
+如果你是在一个叫 injector.dll 的文件里读到这段话，恭喜你。
+=========================================================================
+
+你没有中病毒。你只是打开了一个改了扩展名的开源协议文本。
+
+真正的本体是同目录下的 AIzh_v56t.ps1 —— 一个 883 行的开关面板。
+
+它不联网、不写注册表、不改环境变量。
+它唯一会写的东西，是 paths.json 里的路径。
+
+抱歉吓到你了。仪式感也是功能的一部分。
